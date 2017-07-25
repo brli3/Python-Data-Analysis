@@ -1,0 +1,1241 @@
+Id,Attribute,Code,Label,Dataset
+1,Police_Force,1,Metropolitan Police,accidents
+2,Police_Force,3,Cumbria,accidents
+3,Police_Force,4,Lancashire,accidents
+4,Police_Force,5,Merseyside,accidents
+5,Police_Force,6,Greater Manchester,accidents
+6,Police_Force,7,Cheshire,accidents
+7,Police_Force,10,Northumbria,accidents
+8,Police_Force,11,Durham,accidents
+9,Police_Force,12,North Yorkshire,accidents
+10,Police_Force,13,West Yorkshire,accidents
+11,Police_Force,14,South Yorkshire,accidents
+12,Police_Force,16,Humberside,accidents
+13,Police_Force,17,Cleveland,accidents
+14,Police_Force,20,West Midlands,accidents
+15,Police_Force,21,Staffordshire,accidents
+16,Police_Force,22,West Mercia,accidents
+17,Police_Force,23,Warwickshire,accidents
+18,Police_Force,30,Derbyshire,accidents
+19,Police_Force,31,Nottinghamshire,accidents
+20,Police_Force,32,Lincolnshire,accidents
+21,Police_Force,33,Leicestershire,accidents
+22,Police_Force,34,Northamptonshire,accidents
+23,Police_Force,35,Cambridgeshire,accidents
+24,Police_Force,36,Norfolk,accidents
+25,Police_Force,37,Suffolk,accidents
+26,Police_Force,40,Bedfordshire,accidents
+27,Police_Force,41,Hertfordshire,accidents
+28,Police_Force,42,Essex,accidents
+29,Police_Force,43,Thames Valley,accidents
+30,Police_Force,44,Hampshire,accidents
+31,Police_Force,45,Surrey,accidents
+32,Police_Force,46,Kent,accidents
+33,Police_Force,47,Sussex,accidents
+34,Police_Force,48,City of London,accidents
+35,Police_Force,50,Devon and Cornwall,accidents
+36,Police_Force,52,Avon and Somerset,accidents
+37,Police_Force,53,Gloucestershire,accidents
+38,Police_Force,54,Wiltshire,accidents
+39,Police_Force,55,Dorset,accidents
+40,Police_Force,60,North Wales,accidents
+41,Police_Force,61,Gwent,accidents
+42,Police_Force,62,South Wales,accidents
+43,Police_Force,63,Dyfed-Powys,accidents
+44,Police_Force,91,Northern,accidents
+45,Police_Force,92,Grampian,accidents
+46,Police_Force,93,Tayside,accidents
+47,Police_Force,94,Fife,accidents
+48,Police_Force,95,Lothian and Borders,accidents
+49,Police_Force,96,Central,accidents
+50,Police_Force,97,Strathclyde,accidents
+51,Police_Force,98,Dumfries and Galloway,accidents
+52,Accident_Severity,1,Fatal,accidents
+53,Accident_Severity,2,Serious,accidents
+54,Accident_Severity,3,Slight,accidents
+55,Day_of_Week,1,Sunday,accidents
+56,Day_of_Week,2,Monday,accidents
+57,Day_of_Week,3,Tuesday,accidents
+58,Day_of_Week,4,Wednesday,accidents
+59,Day_of_Week,5,Thursday,accidents
+60,Day_of_Week,6,Friday,accidents
+61,Day_of_Week,7,Saturday,accidents
+62,Local_Authority_(District),1,Westminster,accidents
+63,Local_Authority_(District),2,Camden,accidents
+64,Local_Authority_(District),3,Islington,accidents
+65,Local_Authority_(District),4,Hackney,accidents
+66,Local_Authority_(District),5,Tower Hamlets,accidents
+67,Local_Authority_(District),6,Greenwich,accidents
+68,Local_Authority_(District),7,Lewisham,accidents
+69,Local_Authority_(District),8,Southwark,accidents
+70,Local_Authority_(District),9,Lambeth,accidents
+71,Local_Authority_(District),10,Wandsworth,accidents
+72,Local_Authority_(District),11,Hammersmith and Fulham,accidents
+73,Local_Authority_(District),12,Kensington and Chelsea,accidents
+74,Local_Authority_(District),13,Waltham Forest,accidents
+75,Local_Authority_(District),14,Redbridge,accidents
+76,Local_Authority_(District),15,Havering,accidents
+77,Local_Authority_(District),16,Barking and Dagenham,accidents
+78,Local_Authority_(District),17,Newham,accidents
+79,Local_Authority_(District),18,Bexley,accidents
+80,Local_Authority_(District),19,Bromley,accidents
+81,Local_Authority_(District),20,Croydon,accidents
+82,Local_Authority_(District),21,Sutton,accidents
+83,Local_Authority_(District),22,Merton,accidents
+84,Local_Authority_(District),23,Kingston upon Thames,accidents
+85,Local_Authority_(District),24,Richmond upon Thames,accidents
+86,Local_Authority_(District),25,Hounslow,accidents
+87,Local_Authority_(District),26,Hillingdon,accidents
+88,Local_Authority_(District),27,Ealing,accidents
+89,Local_Authority_(District),28,Brent,accidents
+90,Local_Authority_(District),29,Harrow,accidents
+91,Local_Authority_(District),30,Barnet,accidents
+92,Local_Authority_(District),31,Haringey,accidents
+93,Local_Authority_(District),32,Enfield,accidents
+94,Local_Authority_(District),33,Hertsmere,accidents
+95,Local_Authority_(District),38,Epsom and Ewell,accidents
+96,Local_Authority_(District),40,Spelthorne,accidents
+97,Local_Authority_(District),57,London Airport (Heathrow),accidents
+98,Local_Authority_(District),60,Allerdale,accidents
+99,Local_Authority_(District),61,Barrow-in-Furness,accidents
+100,Local_Authority_(District),62,Carlisle,accidents
+101,Local_Authority_(District),63,Copeland,accidents
+102,Local_Authority_(District),64,Eden,accidents
+103,Local_Authority_(District),65,South Lakeland,accidents
+104,Local_Authority_(District),70,Blackburn with Darwen,accidents
+105,Local_Authority_(District),71,Blackpool,accidents
+106,Local_Authority_(District),72,Burnley,accidents
+107,Local_Authority_(District),73,Chorley,accidents
+108,Local_Authority_(District),74,Fylde,accidents
+109,Local_Authority_(District),75,Hyndburn,accidents
+110,Local_Authority_(District),76,Lancaster,accidents
+111,Local_Authority_(District),77,Pendle,accidents
+112,Local_Authority_(District),79,Preston,accidents
+113,Local_Authority_(District),80,Ribble Valley,accidents
+114,Local_Authority_(District),82,Rossendale,accidents
+115,Local_Authority_(District),83,South Ribble,accidents
+116,Local_Authority_(District),84,West Lancashire,accidents
+117,Local_Authority_(District),85,Wyre,accidents
+118,Local_Authority_(District),90,Knowsley,accidents
+119,Local_Authority_(District),91,Liverpool,accidents
+120,Local_Authority_(District),92,St. Helens,accidents
+121,Local_Authority_(District),93,Sefton,accidents
+122,Local_Authority_(District),95,Wirral,accidents
+123,Local_Authority_(District),100,Bolton,accidents
+124,Local_Authority_(District),101,Bury,accidents
+125,Local_Authority_(District),102,Manchester,accidents
+126,Local_Authority_(District),104,Oldham,accidents
+127,Local_Authority_(District),106,Rochdale,accidents
+128,Local_Authority_(District),107,Salford,accidents
+129,Local_Authority_(District),109,Stockport,accidents
+130,Local_Authority_(District),110,Tameside,accidents
+131,Local_Authority_(District),112,Trafford,accidents
+132,Local_Authority_(District),114,Wigan,accidents
+133,Local_Authority_(District),120,Chester,accidents
+134,Local_Authority_(District),121,Congleton,accidents
+135,Local_Authority_(District),122,Crewe and Nantwich,accidents
+136,Local_Authority_(District),123,Ellesmere Port and Neston,accidents
+137,Local_Authority_(District),124,Halton,accidents
+138,Local_Authority_(District),126,Macclesfield,accidents
+139,Local_Authority_(District),127,Vale Royal,accidents
+140,Local_Authority_(District),128,Warrington,accidents
+141,Local_Authority_(District),129,Cheshire East,accidents
+142,Local_Authority_(District),130,Cheshire West and Chester,accidents
+143,Local_Authority_(District),139,Northumberland,accidents
+144,Local_Authority_(District),140,Alnwick,accidents
+145,Local_Authority_(District),141,Berwick-upon-Tweed,accidents
+146,Local_Authority_(District),142,Blyth Valley,accidents
+147,Local_Authority_(District),143,Castle Morpeth,accidents
+148,Local_Authority_(District),144,Tynedale,accidents
+149,Local_Authority_(District),145,Wansbeck,accidents
+150,Local_Authority_(District),146,Gateshead,accidents
+151,Local_Authority_(District),147,Newcastle upon Tyne,accidents
+152,Local_Authority_(District),148,North Tyneside,accidents
+153,Local_Authority_(District),149,South Tyneside,accidents
+154,Local_Authority_(District),150,Sunderland,accidents
+155,Local_Authority_(District),160,Chester-le-Street,accidents
+156,Local_Authority_(District),161,Darlington,accidents
+157,Local_Authority_(District),162,Derwentside,accidents
+158,Local_Authority_(District),163,Durham,accidents
+159,Local_Authority_(District),164,Easington,accidents
+160,Local_Authority_(District),165,Sedgefield,accidents
+161,Local_Authority_(District),166,Teesdale,accidents
+162,Local_Authority_(District),168,Wear Valley,accidents
+163,Local_Authority_(District),169,County Durham,accidents
+164,Local_Authority_(District),180,Craven,accidents
+165,Local_Authority_(District),181,Hambleton,accidents
+166,Local_Authority_(District),182,Harrogate,accidents
+167,Local_Authority_(District),184,Richmondshire,accidents
+168,Local_Authority_(District),185,Ryedale,accidents
+169,Local_Authority_(District),186,Scarborough,accidents
+170,Local_Authority_(District),187,Selby,accidents
+171,Local_Authority_(District),189,York,accidents
+172,Local_Authority_(District),200,Bradford,accidents
+173,Local_Authority_(District),202,Calderdale,accidents
+174,Local_Authority_(District),203,Kirklees,accidents
+175,Local_Authority_(District),204,Leeds,accidents
+176,Local_Authority_(District),206,Wakefield,accidents
+177,Local_Authority_(District),210,Barnsley,accidents
+178,Local_Authority_(District),211,Doncaster,accidents
+179,Local_Authority_(District),213,Rotherham,accidents
+180,Local_Authority_(District),215,Sheffield,accidents
+181,Local_Authority_(District),228,"Kingston upon Hull, City of",accidents
+182,Local_Authority_(District),231,East Riding of Yorkshire,accidents
+183,Local_Authority_(District),232,North Lincolnshire,accidents
+184,Local_Authority_(District),233,North East Lincolnshire,accidents
+185,Local_Authority_(District),240,Hartlepool,accidents
+186,Local_Authority_(District),241,Redcar and Cleveland,accidents
+187,Local_Authority_(District),243,Middlesbrough,accidents
+188,Local_Authority_(District),245,Stockton-on-Tees,accidents
+189,Local_Authority_(District),250,Cannock Chase,accidents
+190,Local_Authority_(District),251,East Staffordshire,accidents
+191,Local_Authority_(District),252,Lichfield,accidents
+192,Local_Authority_(District),253,Newcastle-under-Lyme,accidents
+193,Local_Authority_(District),254,South Staffordshire,accidents
+194,Local_Authority_(District),255,Stafford,accidents
+195,Local_Authority_(District),256,Staffordshire Moorlands,accidents
+196,Local_Authority_(District),257,Stoke-on-Trent,accidents
+197,Local_Authority_(District),258,Tamworth,accidents
+198,Local_Authority_(District),270,Bromsgrove,accidents
+199,Local_Authority_(District),273,Malvern Hills,accidents
+200,Local_Authority_(District),274,Redditch,accidents
+201,Local_Authority_(District),276,Worcester,accidents
+202,Local_Authority_(District),277,Wychavon,accidents
+203,Local_Authority_(District),278,Wyre Forest,accidents
+204,Local_Authority_(District),279,Bridgnorth,accidents
+205,Local_Authority_(District),280,North Shropshire,accidents
+206,Local_Authority_(District),281,Oswestry,accidents
+207,Local_Authority_(District),282,Shrewsbury and Atcham,accidents
+208,Local_Authority_(District),283,South Shropshire,accidents
+209,Local_Authority_(District),284,Telford and Wrekin,accidents
+210,Local_Authority_(District),285,"Herefordshire, County of ",accidents
+211,Local_Authority_(District),286,Shropshire,accidents
+212,Local_Authority_(District),290,North Warwickshire,accidents
+213,Local_Authority_(District),291,Nuneaton and Bedworth,accidents
+214,Local_Authority_(District),292,Rugby ,accidents
+215,Local_Authority_(District),293,Stratford-upon-Avon,accidents
+216,Local_Authority_(District),294,Warwick,accidents
+217,Local_Authority_(District),300,Birmingham,accidents
+218,Local_Authority_(District),302,Coventry,accidents
+219,Local_Authority_(District),303,Dudley,accidents
+220,Local_Authority_(District),305,Sandwell,accidents
+221,Local_Authority_(District),306,Solihull,accidents
+222,Local_Authority_(District),307,Walsall,accidents
+223,Local_Authority_(District),309,Wolverhampton,accidents
+224,Local_Authority_(District),320,Amber Valley,accidents
+225,Local_Authority_(District),321,Bolsover,accidents
+226,Local_Authority_(District),322,Chesterfield,accidents
+227,Local_Authority_(District),323,Derby,accidents
+228,Local_Authority_(District),324,Erewash,accidents
+229,Local_Authority_(District),325,High Peak,accidents
+230,Local_Authority_(District),327,North East Derbyshire,accidents
+231,Local_Authority_(District),328,South Derbyshire,accidents
+232,Local_Authority_(District),329,Derbyshire Dales,accidents
+233,Local_Authority_(District),340,Ashfield,accidents
+234,Local_Authority_(District),341,Bassetlaw,accidents
+235,Local_Authority_(District),342,Broxtowe,accidents
+236,Local_Authority_(District),343,Gedling,accidents
+237,Local_Authority_(District),344,Mansfield,accidents
+238,Local_Authority_(District),345,Newark and Sherwood,accidents
+239,Local_Authority_(District),346,Nottingham,accidents
+240,Local_Authority_(District),347,Rushcliffe,accidents
+241,Local_Authority_(District),350,Boston,accidents
+242,Local_Authority_(District),351,East Lindsey,accidents
+243,Local_Authority_(District),352,Lincoln,accidents
+244,Local_Authority_(District),353,North Kesteven,accidents
+245,Local_Authority_(District),354,South Holland,accidents
+246,Local_Authority_(District),355,South Kesteven,accidents
+247,Local_Authority_(District),356,West Lindsey,accidents
+248,Local_Authority_(District),360,Blaby,accidents
+249,Local_Authority_(District),361,Hinckley and Bosworth,accidents
+250,Local_Authority_(District),362,Charnwood,accidents
+251,Local_Authority_(District),363,Harborough,accidents
+252,Local_Authority_(District),364,Leicester,accidents
+253,Local_Authority_(District),365,Melton,accidents
+254,Local_Authority_(District),366,North West Leicestershire,accidents
+255,Local_Authority_(District),367,Oadby and Wigston,accidents
+256,Local_Authority_(District),368,Rutland,accidents
+257,Local_Authority_(District),380,Corby,accidents
+258,Local_Authority_(District),381,Daventry,accidents
+259,Local_Authority_(District),382,East Northamptonshire,accidents
+260,Local_Authority_(District),383,Kettering,accidents
+261,Local_Authority_(District),384,Northampton,accidents
+262,Local_Authority_(District),385,South Northamptonshire,accidents
+263,Local_Authority_(District),386,Wellingborough,accidents
+264,Local_Authority_(District),390,Cambridge,accidents
+265,Local_Authority_(District),391,East Cambridgeshire,accidents
+266,Local_Authority_(District),392,Fenland,accidents
+267,Local_Authority_(District),393,Huntingdonshire,accidents
+268,Local_Authority_(District),394,Peterborough,accidents
+269,Local_Authority_(District),395,South Cambridgeshire,accidents
+270,Local_Authority_(District),400,Breckland,accidents
+271,Local_Authority_(District),401,Broadland,accidents
+272,Local_Authority_(District),402,Great Yarmouth,accidents
+273,Local_Authority_(District),404,Norwich,accidents
+274,Local_Authority_(District),405,North Norfolk,accidents
+275,Local_Authority_(District),406,South Norfolk,accidents
+276,Local_Authority_(District),407,King's Lynn and West Norfolk,accidents
+277,Local_Authority_(District),410,Babergh,accidents
+278,Local_Authority_(District),411,Forest Heath,accidents
+279,Local_Authority_(District),412,Ipswich,accidents
+280,Local_Authority_(District),413,Mid Suffolk,accidents
+281,Local_Authority_(District),414,St. Edmundsbury,accidents
+282,Local_Authority_(District),415,Suffolk Coastal,accidents
+283,Local_Authority_(District),416,Waveney,accidents
+284,Local_Authority_(District),420,Bedford,accidents
+285,Local_Authority_(District),421,Luton,accidents
+286,Local_Authority_(District),422,Mid Bedfordshire,accidents
+287,Local_Authority_(District),423,South Bedfordshire,accidents
+288,Local_Authority_(District),424,Central Bedfordshire,accidents
+289,Local_Authority_(District),430,Broxbourne,accidents
+290,Local_Authority_(District),431,Dacorum,accidents
+291,Local_Authority_(District),432,East Hertfordshire,accidents
+292,Local_Authority_(District),433,North Hertfordshire,accidents
+293,Local_Authority_(District),434,St. Albans,accidents
+294,Local_Authority_(District),435,Stevenage,accidents
+295,Local_Authority_(District),436,Three Rivers,accidents
+296,Local_Authority_(District),437,Watford,accidents
+297,Local_Authority_(District),438,Welwyn Hatfield,accidents
+298,Local_Authority_(District),450,Basildon,accidents
+299,Local_Authority_(District),451,Braintree,accidents
+300,Local_Authority_(District),452,Brentwood,accidents
+301,Local_Authority_(District),453,Castle Point,accidents
+302,Local_Authority_(District),454,Chelmsford,accidents
+303,Local_Authority_(District),455,Colchester,accidents
+304,Local_Authority_(District),456,Epping Forest,accidents
+305,Local_Authority_(District),457,Harlow,accidents
+306,Local_Authority_(District),458,Maldon,accidents
+307,Local_Authority_(District),459,Rochford,accidents
+308,Local_Authority_(District),460,Southend-on-Sea,accidents
+309,Local_Authority_(District),461,Tendring,accidents
+310,Local_Authority_(District),462,Thurrock,accidents
+311,Local_Authority_(District),463,Uttlesford,accidents
+312,Local_Authority_(District),470,Bracknell Forest,accidents
+313,Local_Authority_(District),471,West Berkshire,accidents
+314,Local_Authority_(District),472,Reading,accidents
+315,Local_Authority_(District),473,Slough,accidents
+316,Local_Authority_(District),474,Windsor and Maidenhead,accidents
+317,Local_Authority_(District),475,Wokingham,accidents
+318,Local_Authority_(District),476,Aylesbury Vale,accidents
+319,Local_Authority_(District),477,South Bucks,accidents
+320,Local_Authority_(District),478,Chiltern,accidents
+321,Local_Authority_(District),479,Milton Keynes,accidents
+322,Local_Authority_(District),480,Wycombe,accidents
+323,Local_Authority_(District),481,Cherwell,accidents
+324,Local_Authority_(District),482,Oxford,accidents
+325,Local_Authority_(District),483,Vale of White Horse,accidents
+326,Local_Authority_(District),484,South Oxfordshire,accidents
+327,Local_Authority_(District),485,West Oxfordshire,accidents
+328,Local_Authority_(District),490,Basingstoke and Deane,accidents
+329,Local_Authority_(District),491,Eastleigh,accidents
+330,Local_Authority_(District),492,Fareham,accidents
+331,Local_Authority_(District),493,Gosport,accidents
+332,Local_Authority_(District),494,Hart,accidents
+333,Local_Authority_(District),495,Havant,accidents
+334,Local_Authority_(District),496,New Forest,accidents
+335,Local_Authority_(District),497,East Hampshire,accidents
+336,Local_Authority_(District),498,Portsmouth,accidents
+337,Local_Authority_(District),499,Rushmoor,accidents
+338,Local_Authority_(District),500,Southampton ,accidents
+339,Local_Authority_(District),501,Test Valley,accidents
+340,Local_Authority_(District),502,Winchester,accidents
+341,Local_Authority_(District),505,Isle of Wight,accidents
+342,Local_Authority_(District),510,Elmbridge,accidents
+343,Local_Authority_(District),511,Guildford,accidents
+344,Local_Authority_(District),512,Mole Valley,accidents
+345,Local_Authority_(District),513,Reigate and Banstead,accidents
+346,Local_Authority_(District),514,Runnymede,accidents
+347,Local_Authority_(District),515,Surrey Heath,accidents
+348,Local_Authority_(District),516,Tandridge,accidents
+349,Local_Authority_(District),517,Waverley,accidents
+350,Local_Authority_(District),518,Woking,accidents
+351,Local_Authority_(District),530,Ashford,accidents
+352,Local_Authority_(District),531,Canterbury,accidents
+353,Local_Authority_(District),532,Dartford,accidents
+354,Local_Authority_(District),533,Dover,accidents
+355,Local_Authority_(District),535,Gravesham,accidents
+356,Local_Authority_(District),536,Maidstone,accidents
+357,Local_Authority_(District),538,Sevenoaks,accidents
+358,Local_Authority_(District),539,Shepway,accidents
+359,Local_Authority_(District),540,Swale,accidents
+360,Local_Authority_(District),541,Thanet,accidents
+361,Local_Authority_(District),542,Tonbridge and Malling,accidents
+362,Local_Authority_(District),543,Tunbridge Wells,accidents
+363,Local_Authority_(District),544,Medway,accidents
+364,Local_Authority_(District),551,Eastbourne,accidents
+365,Local_Authority_(District),552,Hastings,accidents
+366,Local_Authority_(District),554,Lewes,accidents
+367,Local_Authority_(District),555,Rother,accidents
+368,Local_Authority_(District),556,Wealden,accidents
+369,Local_Authority_(District),557,Adur,accidents
+370,Local_Authority_(District),558,Arun,accidents
+371,Local_Authority_(District),559,Chichester,accidents
+372,Local_Authority_(District),560,Crawley,accidents
+373,Local_Authority_(District),562,Horsham,accidents
+374,Local_Authority_(District),563,Mid Sussex,accidents
+375,Local_Authority_(District),564,Worthing,accidents
+376,Local_Authority_(District),565,Brighton and Hove,accidents
+377,Local_Authority_(District),570,City of London,accidents
+378,Local_Authority_(District),580,East Devon,accidents
+379,Local_Authority_(District),581,Exeter,accidents
+380,Local_Authority_(District),582,North Devon,accidents
+381,Local_Authority_(District),583,Plymouth,accidents
+382,Local_Authority_(District),584,South Hams,accidents
+383,Local_Authority_(District),585,Teignbridge,accidents
+384,Local_Authority_(District),586,Mid Devon,accidents
+385,Local_Authority_(District),587,Torbay,accidents
+386,Local_Authority_(District),588,Torridge,accidents
+387,Local_Authority_(District),589,West Devon,accidents
+388,Local_Authority_(District),590,Caradon,accidents
+389,Local_Authority_(District),591,Carrick,accidents
+390,Local_Authority_(District),592,Kerrier,accidents
+391,Local_Authority_(District),593,North Cornwall,accidents
+392,Local_Authority_(District),594,Penwith,accidents
+393,Local_Authority_(District),595,Restormel,accidents
+394,Local_Authority_(District),596,Cornwall,accidents
+395,Local_Authority_(District),601,"Bristol, City of",accidents
+396,Local_Authority_(District),605,North Somerset,accidents
+397,Local_Authority_(District),606,Mendip,accidents
+398,Local_Authority_(District),607,Sedgemoor,accidents
+399,Local_Authority_(District),608,Taunton Deane,accidents
+400,Local_Authority_(District),609,West Somerset,accidents
+401,Local_Authority_(District),610,South Somerset,accidents
+402,Local_Authority_(District),611,Bath and North East Somerset,accidents
+403,Local_Authority_(District),612,South Gloucestershire,accidents
+404,Local_Authority_(District),620,Cheltenham,accidents
+405,Local_Authority_(District),621,Cotswold,accidents
+406,Local_Authority_(District),622,Forest of Dean,accidents
+407,Local_Authority_(District),623,Gloucester,accidents
+408,Local_Authority_(District),624,Stroud,accidents
+409,Local_Authority_(District),625,Tewkesbury,accidents
+410,Local_Authority_(District),630,Kennet,accidents
+411,Local_Authority_(District),631,North Wiltshire,accidents
+412,Local_Authority_(District),632,Salisbury,accidents
+413,Local_Authority_(District),633,Swindon,accidents
+414,Local_Authority_(District),634,West Wiltshire,accidents
+415,Local_Authority_(District),635,Wiltshire,accidents
+416,Local_Authority_(District),640,Bournemouth,accidents
+417,Local_Authority_(District),641,Christchurch,accidents
+418,Local_Authority_(District),642,North Dorset,accidents
+419,Local_Authority_(District),643,Poole,accidents
+420,Local_Authority_(District),644,Purbeck,accidents
+421,Local_Authority_(District),645,West Dorset,accidents
+422,Local_Authority_(District),646,Weymouth and Portland,accidents
+423,Local_Authority_(District),647,East Dorset,accidents
+424,Local_Authority_(District),720,Isle of Anglesey,accidents
+425,Local_Authority_(District),721,Conwy,accidents
+426,Local_Authority_(District),722,Gwynedd,accidents
+427,Local_Authority_(District),723,Denbighshire,accidents
+428,Local_Authority_(District),724,Flintshire,accidents
+429,Local_Authority_(District),725,Wrexham,accidents
+430,Local_Authority_(District),730,Blaenau Gwent,accidents
+431,Local_Authority_(District),731,Caerphilly,accidents
+432,Local_Authority_(District),732,Monmouthshire,accidents
+433,Local_Authority_(District),733,Newport,accidents
+434,Local_Authority_(District),734,Torfaen,accidents
+435,Local_Authority_(District),740,Bridgend,accidents
+436,Local_Authority_(District),741,Cardiff,accidents
+437,Local_Authority_(District),742,Merthyr Tydfil,accidents
+438,Local_Authority_(District),743,Neath Port Talbot,accidents
+439,Local_Authority_(District),744,"Rhondda, Cynon, Taff",accidents
+440,Local_Authority_(District),745,Swansea,accidents
+441,Local_Authority_(District),746,The Vale of Glamorgan,accidents
+442,Local_Authority_(District),750,Ceredigion,accidents
+443,Local_Authority_(District),751,Carmarthenshire,accidents
+444,Local_Authority_(District),752,Pembrokeshire,accidents
+445,Local_Authority_(District),753,Powys,accidents
+446,Local_Authority_(District),910,Aberdeen City,accidents
+447,Local_Authority_(District),911,Aberdeenshire,accidents
+448,Local_Authority_(District),912,Angus,accidents
+449,Local_Authority_(District),913,Argyll and Bute,accidents
+450,Local_Authority_(District),914,Scottish Borders,accidents
+451,Local_Authority_(District),915,Clackmannanshire,accidents
+452,Local_Authority_(District),916,West Dunbartonshire,accidents
+453,Local_Authority_(District),917,Dumfries and Galloway,accidents
+454,Local_Authority_(District),918,Dundee City,accidents
+455,Local_Authority_(District),919,East Ayrshire,accidents
+456,Local_Authority_(District),920,East Dunbartonshire,accidents
+457,Local_Authority_(District),921,East Lothian,accidents
+458,Local_Authority_(District),922,East Renfrewshire,accidents
+459,Local_Authority_(District),923,"Edinburgh, City of",accidents
+460,Local_Authority_(District),924,Falkirk,accidents
+461,Local_Authority_(District),925,Fife,accidents
+462,Local_Authority_(District),926,Glasgow City,accidents
+463,Local_Authority_(District),927,Highland,accidents
+464,Local_Authority_(District),928,Inverclyde,accidents
+465,Local_Authority_(District),929,Midlothian,accidents
+466,Local_Authority_(District),930,Moray,accidents
+467,Local_Authority_(District),931,North Ayrshire,accidents
+468,Local_Authority_(District),932,North Lanarkshire,accidents
+469,Local_Authority_(District),933,Orkney Islands,accidents
+470,Local_Authority_(District),934,Perth and Kinross,accidents
+471,Local_Authority_(District),935,Renfrewshire,accidents
+472,Local_Authority_(District),936,Shetland Islands,accidents
+473,Local_Authority_(District),937,South Ayrshire,accidents
+474,Local_Authority_(District),938,South Lanarkshire,accidents
+475,Local_Authority_(District),939,Stirling,accidents
+476,Local_Authority_(District),940,West Lothian,accidents
+477,Local_Authority_(District),941,Western Isles,accidents
+478,Local_Authority_(Highway),1,Westminster,accidents
+479,Local_Authority_(Highway),2,Camden,accidents
+480,Local_Authority_(Highway),3,Islington,accidents
+481,Local_Authority_(Highway),4,Hackney,accidents
+482,Local_Authority_(Highway),5,Tower Hamlets,accidents
+483,Local_Authority_(Highway),6,Greenwich,accidents
+484,Local_Authority_(Highway),7,Lewisham,accidents
+485,Local_Authority_(Highway),8,Southwark,accidents
+486,Local_Authority_(Highway),9,Lambeth,accidents
+487,Local_Authority_(Highway),10,Wandsworth,accidents
+488,Local_Authority_(Highway),11,Hammersmith and Fulham,accidents
+489,Local_Authority_(Highway),12,Kensington and Chelsea,accidents
+490,Local_Authority_(Highway),13,Waltham Forest,accidents
+491,Local_Authority_(Highway),14,Redbridge,accidents
+492,Local_Authority_(Highway),15,Havering,accidents
+493,Local_Authority_(Highway),16,Barking and Dagenham,accidents
+494,Local_Authority_(Highway),17,Newham,accidents
+495,Local_Authority_(Highway),18,Bexley,accidents
+496,Local_Authority_(Highway),19,Bromley,accidents
+497,Local_Authority_(Highway),20,Croydon,accidents
+498,Local_Authority_(Highway),21,Sutton,accidents
+499,Local_Authority_(Highway),22,Merton,accidents
+500,Local_Authority_(Highway),23,Kingston upon Thames,accidents
+501,Local_Authority_(Highway),24,Richmond upon Thames,accidents
+502,Local_Authority_(Highway),25,Hounslow,accidents
+503,Local_Authority_(Highway),26,Hillingdon,accidents
+504,Local_Authority_(Highway),27,Ealing,accidents
+505,Local_Authority_(Highway),28,Brent,accidents
+506,Local_Authority_(Highway),29,Harrow,accidents
+507,Local_Authority_(Highway),30,Barnet,accidents
+508,Local_Authority_(Highway),31,Haringey,accidents
+509,Local_Authority_(Highway),32,Enfield,accidents
+510,Local_Authority_(Highway),33,Hertsmere,accidents
+511,Local_Authority_(Highway),38,Epsom and Ewell,accidents
+512,Local_Authority_(Highway),40,Spelthorne,accidents
+513,Local_Authority_(Highway),57,London Airport (Heathrow),accidents
+514,Local_Authority_(Highway),60,Allerdale,accidents
+515,Local_Authority_(Highway),61,Barrow-in-Furness,accidents
+516,Local_Authority_(Highway),62,Carlisle,accidents
+517,Local_Authority_(Highway),63,Copeland,accidents
+518,Local_Authority_(Highway),64,Eden,accidents
+519,Local_Authority_(Highway),65,South Lakeland,accidents
+520,Local_Authority_(Highway),70,Blackburn with Darwen,accidents
+521,Local_Authority_(Highway),71,Blackpool,accidents
+522,Local_Authority_(Highway),72,Burnley,accidents
+523,Local_Authority_(Highway),73,Chorley,accidents
+524,Local_Authority_(Highway),74,Fylde,accidents
+525,Local_Authority_(Highway),75,Hyndburn,accidents
+526,Local_Authority_(Highway),76,Lancaster,accidents
+527,Local_Authority_(Highway),77,Pendle,accidents
+528,Local_Authority_(Highway),79,Preston,accidents
+529,Local_Authority_(Highway),80,Ribble Valley,accidents
+530,Local_Authority_(Highway),82,Rossendale,accidents
+531,Local_Authority_(Highway),83,South Ribble,accidents
+532,Local_Authority_(Highway),84,West Lancashire,accidents
+533,Local_Authority_(Highway),85,Wyre,accidents
+534,Local_Authority_(Highway),90,Knowsley,accidents
+535,Local_Authority_(Highway),91,Liverpool,accidents
+536,Local_Authority_(Highway),92,St. Helens,accidents
+537,Local_Authority_(Highway),93,Sefton,accidents
+538,Local_Authority_(Highway),95,Wirral,accidents
+539,Local_Authority_(Highway),100,Bolton,accidents
+540,Local_Authority_(Highway),101,Bury,accidents
+541,Local_Authority_(Highway),102,Manchester,accidents
+542,Local_Authority_(Highway),104,Oldham,accidents
+543,Local_Authority_(Highway),106,Rochdale,accidents
+544,Local_Authority_(Highway),107,Salford,accidents
+545,Local_Authority_(Highway),109,Stockport,accidents
+546,Local_Authority_(Highway),110,Tameside,accidents
+547,Local_Authority_(Highway),112,Trafford,accidents
+548,Local_Authority_(Highway),114,Wigan,accidents
+549,Local_Authority_(Highway),120,Chester,accidents
+550,Local_Authority_(Highway),121,Congleton,accidents
+551,Local_Authority_(Highway),122,Crewe and Nantwich,accidents
+552,Local_Authority_(Highway),123,Ellesmere Port and Neston,accidents
+553,Local_Authority_(Highway),124,Halton,accidents
+554,Local_Authority_(Highway),126,Macclesfield,accidents
+555,Local_Authority_(Highway),127,Vale Royal,accidents
+556,Local_Authority_(Highway),128,Warrington,accidents
+557,Local_Authority_(Highway),129,Cheshire East,accidents
+558,Local_Authority_(Highway),130,Cheshire West and Chester,accidents
+559,Local_Authority_(Highway),139,Northumberland,accidents
+560,Local_Authority_(Highway),140,Alnwick,accidents
+561,Local_Authority_(Highway),141,Berwick-upon-Tweed,accidents
+562,Local_Authority_(Highway),142,Blyth Valley,accidents
+563,Local_Authority_(Highway),143,Castle Morpeth,accidents
+564,Local_Authority_(Highway),144,Tynedale,accidents
+565,Local_Authority_(Highway),145,Wansbeck,accidents
+566,Local_Authority_(Highway),146,Gateshead,accidents
+567,Local_Authority_(Highway),147,Newcastle upon Tyne,accidents
+568,Local_Authority_(Highway),148,North Tyneside,accidents
+569,Local_Authority_(Highway),149,South Tyneside,accidents
+570,Local_Authority_(Highway),150,Sunderland,accidents
+571,Local_Authority_(Highway),160,Chester-le-Street,accidents
+572,Local_Authority_(Highway),161,Darlington,accidents
+573,Local_Authority_(Highway),162,Derwentside,accidents
+574,Local_Authority_(Highway),163,Durham,accidents
+575,Local_Authority_(Highway),164,Easington,accidents
+576,Local_Authority_(Highway),165,Sedgefield,accidents
+577,Local_Authority_(Highway),166,Teesdale,accidents
+578,Local_Authority_(Highway),168,Wear Valley,accidents
+579,Local_Authority_(Highway),169,County Durham,accidents
+580,Local_Authority_(Highway),180,Craven,accidents
+581,Local_Authority_(Highway),181,Hambleton,accidents
+582,Local_Authority_(Highway),182,Harrogate,accidents
+583,Local_Authority_(Highway),184,Richmondshire,accidents
+584,Local_Authority_(Highway),185,Ryedale,accidents
+585,Local_Authority_(Highway),186,Scarborough,accidents
+586,Local_Authority_(Highway),187,Selby,accidents
+587,Local_Authority_(Highway),189,York,accidents
+588,Local_Authority_(Highway),200,Bradford,accidents
+589,Local_Authority_(Highway),202,Calderdale,accidents
+590,Local_Authority_(Highway),203,Kirklees,accidents
+591,Local_Authority_(Highway),204,Leeds,accidents
+592,Local_Authority_(Highway),206,Wakefield,accidents
+593,Local_Authority_(Highway),210,Barnsley,accidents
+594,Local_Authority_(Highway),211,Doncaster,accidents
+595,Local_Authority_(Highway),213,Rotherham,accidents
+596,Local_Authority_(Highway),215,Sheffield,accidents
+597,Local_Authority_(Highway),228,"Kingston upon Hull, City of",accidents
+598,Local_Authority_(Highway),231,East Riding of Yorkshire,accidents
+599,Local_Authority_(Highway),232,North Lincolnshire,accidents
+600,Local_Authority_(Highway),233,North East Lincolnshire,accidents
+601,Local_Authority_(Highway),240,Hartlepool,accidents
+602,Local_Authority_(Highway),241,Redcar and Cleveland,accidents
+603,Local_Authority_(Highway),243,Middlesbrough,accidents
+604,Local_Authority_(Highway),245,Stockton-on-Tees,accidents
+605,Local_Authority_(Highway),250,Cannock Chase,accidents
+606,Local_Authority_(Highway),251,East Staffordshire,accidents
+607,Local_Authority_(Highway),252,Lichfield,accidents
+608,Local_Authority_(Highway),253,Newcastle-under-Lyme,accidents
+609,Local_Authority_(Highway),254,South Staffordshire,accidents
+610,Local_Authority_(Highway),255,Stafford,accidents
+611,Local_Authority_(Highway),256,Staffordshire Moorlands,accidents
+612,Local_Authority_(Highway),257,Stoke-on-Trent,accidents
+613,Local_Authority_(Highway),258,Tamworth,accidents
+614,Local_Authority_(Highway),270,Bromsgrove,accidents
+615,Local_Authority_(Highway),273,Malvern Hills,accidents
+616,Local_Authority_(Highway),274,Redditch,accidents
+617,Local_Authority_(Highway),276,Worcester,accidents
+618,Local_Authority_(Highway),277,Wychavon,accidents
+619,Local_Authority_(Highway),278,Wyre Forest,accidents
+620,Local_Authority_(Highway),279,Bridgnorth,accidents
+621,Local_Authority_(Highway),280,North Shropshire,accidents
+622,Local_Authority_(Highway),281,Oswestry,accidents
+623,Local_Authority_(Highway),282,Shrewsbury and Atcham,accidents
+624,Local_Authority_(Highway),283,South Shropshire,accidents
+625,Local_Authority_(Highway),284,Telford and Wrekin,accidents
+626,Local_Authority_(Highway),285,"Herefordshire, County of ",accidents
+627,Local_Authority_(Highway),286,Shropshire,accidents
+628,Local_Authority_(Highway),290,North Warwickshire,accidents
+629,Local_Authority_(Highway),291,Nuneaton and Bedworth,accidents
+630,Local_Authority_(Highway),292,Rugby ,accidents
+631,Local_Authority_(Highway),293,Stratford-upon-Avon,accidents
+632,Local_Authority_(Highway),294,Warwick,accidents
+633,Local_Authority_(Highway),300,Birmingham,accidents
+634,Local_Authority_(Highway),302,Coventry,accidents
+635,Local_Authority_(Highway),303,Dudley,accidents
+636,Local_Authority_(Highway),305,Sandwell,accidents
+637,Local_Authority_(Highway),306,Solihull,accidents
+638,Local_Authority_(Highway),307,Walsall,accidents
+639,Local_Authority_(Highway),309,Wolverhampton,accidents
+640,Local_Authority_(Highway),320,Amber Valley,accidents
+641,Local_Authority_(Highway),321,Bolsover,accidents
+642,Local_Authority_(Highway),322,Chesterfield,accidents
+643,Local_Authority_(Highway),323,Derby,accidents
+644,Local_Authority_(Highway),324,Erewash,accidents
+645,Local_Authority_(Highway),325,High Peak,accidents
+646,Local_Authority_(Highway),327,North East Derbyshire,accidents
+647,Local_Authority_(Highway),328,South Derbyshire,accidents
+648,Local_Authority_(Highway),329,Derbyshire Dales,accidents
+649,Local_Authority_(Highway),340,Ashfield,accidents
+650,Local_Authority_(Highway),341,Bassetlaw,accidents
+651,Local_Authority_(Highway),342,Broxtowe,accidents
+652,Local_Authority_(Highway),343,Gedling,accidents
+653,Local_Authority_(Highway),344,Mansfield,accidents
+654,Local_Authority_(Highway),345,Newark and Sherwood,accidents
+655,Local_Authority_(Highway),346,Nottingham,accidents
+656,Local_Authority_(Highway),347,Rushcliffe,accidents
+657,Local_Authority_(Highway),350,Boston,accidents
+658,Local_Authority_(Highway),351,East Lindsey,accidents
+659,Local_Authority_(Highway),352,Lincoln,accidents
+660,Local_Authority_(Highway),353,North Kesteven,accidents
+661,Local_Authority_(Highway),354,South Holland,accidents
+662,Local_Authority_(Highway),355,South Kesteven,accidents
+663,Local_Authority_(Highway),356,West Lindsey,accidents
+664,Local_Authority_(Highway),360,Blaby,accidents
+665,Local_Authority_(Highway),361,Hinckley and Bosworth,accidents
+666,Local_Authority_(Highway),362,Charnwood,accidents
+667,Local_Authority_(Highway),363,Harborough,accidents
+668,Local_Authority_(Highway),364,Leicester,accidents
+669,Local_Authority_(Highway),365,Melton,accidents
+670,Local_Authority_(Highway),366,North West Leicestershire,accidents
+671,Local_Authority_(Highway),367,Oadby and Wigston,accidents
+672,Local_Authority_(Highway),368,Rutland,accidents
+673,Local_Authority_(Highway),380,Corby,accidents
+674,Local_Authority_(Highway),381,Daventry,accidents
+675,Local_Authority_(Highway),382,East Northamptonshire,accidents
+676,Local_Authority_(Highway),383,Kettering,accidents
+677,Local_Authority_(Highway),384,Northampton,accidents
+678,Local_Authority_(Highway),385,South Northamptonshire,accidents
+679,Local_Authority_(Highway),386,Wellingborough,accidents
+680,Local_Authority_(Highway),390,Cambridge,accidents
+681,Local_Authority_(Highway),391,East Cambridgeshire,accidents
+682,Local_Authority_(Highway),392,Fenland,accidents
+683,Local_Authority_(Highway),393,Huntingdonshire,accidents
+684,Local_Authority_(Highway),394,Peterborough,accidents
+685,Local_Authority_(Highway),395,South Cambridgeshire,accidents
+686,Local_Authority_(Highway),400,Breckland,accidents
+687,Local_Authority_(Highway),401,Broadland,accidents
+688,Local_Authority_(Highway),402,Great Yarmouth,accidents
+689,Local_Authority_(Highway),404,Norwich,accidents
+690,Local_Authority_(Highway),405,North Norfolk,accidents
+691,Local_Authority_(Highway),406,South Norfolk,accidents
+692,Local_Authority_(Highway),407,King's Lynn and West Norfolk,accidents
+693,Local_Authority_(Highway),410,Babergh,accidents
+694,Local_Authority_(Highway),411,Forest Heath,accidents
+695,Local_Authority_(Highway),412,Ipswich,accidents
+696,Local_Authority_(Highway),413,Mid Suffolk,accidents
+697,Local_Authority_(Highway),414,St. Edmundsbury,accidents
+698,Local_Authority_(Highway),415,Suffolk Coastal,accidents
+699,Local_Authority_(Highway),416,Waveney,accidents
+700,Local_Authority_(Highway),420,Bedford,accidents
+701,Local_Authority_(Highway),421,Luton,accidents
+702,Local_Authority_(Highway),422,Mid Bedfordshire,accidents
+703,Local_Authority_(Highway),423,South Bedfordshire,accidents
+704,Local_Authority_(Highway),424,Central Bedfordshire,accidents
+705,Local_Authority_(Highway),430,Broxbourne,accidents
+706,Local_Authority_(Highway),431,Dacorum,accidents
+707,Local_Authority_(Highway),432,East Hertfordshire,accidents
+708,Local_Authority_(Highway),433,North Hertfordshire,accidents
+709,Local_Authority_(Highway),434,St. Albans,accidents
+710,Local_Authority_(Highway),435,Stevenage,accidents
+711,Local_Authority_(Highway),436,Three Rivers,accidents
+712,Local_Authority_(Highway),437,Watford,accidents
+713,Local_Authority_(Highway),438,Welwyn Hatfield,accidents
+714,Local_Authority_(Highway),450,Basildon,accidents
+715,Local_Authority_(Highway),451,Braintree,accidents
+716,Local_Authority_(Highway),452,Brentwood,accidents
+717,Local_Authority_(Highway),453,Castle Point,accidents
+718,Local_Authority_(Highway),454,Chelmsford,accidents
+719,Local_Authority_(Highway),455,Colchester,accidents
+720,Local_Authority_(Highway),456,Epping Forest,accidents
+721,Local_Authority_(Highway),457,Harlow,accidents
+722,Local_Authority_(Highway),458,Maldon,accidents
+723,Local_Authority_(Highway),459,Rochford,accidents
+724,Local_Authority_(Highway),460,Southend-on-Sea,accidents
+725,Local_Authority_(Highway),461,Tendring,accidents
+726,Local_Authority_(Highway),462,Thurrock,accidents
+727,Local_Authority_(Highway),463,Uttlesford,accidents
+728,Local_Authority_(Highway),470,Bracknell Forest,accidents
+729,Local_Authority_(Highway),471,West Berkshire,accidents
+730,Local_Authority_(Highway),472,Reading,accidents
+731,Local_Authority_(Highway),473,Slough,accidents
+732,Local_Authority_(Highway),474,Windsor and Maidenhead,accidents
+733,Local_Authority_(Highway),475,Wokingham,accidents
+734,Local_Authority_(Highway),476,Aylesbury Vale,accidents
+735,Local_Authority_(Highway),477,South Bucks,accidents
+736,Local_Authority_(Highway),478,Chiltern,accidents
+737,Local_Authority_(Highway),479,Milton Keynes,accidents
+738,Local_Authority_(Highway),480,Wycombe,accidents
+739,Local_Authority_(Highway),481,Cherwell,accidents
+740,Local_Authority_(Highway),482,Oxford,accidents
+741,Local_Authority_(Highway),483,Vale of White Horse,accidents
+742,Local_Authority_(Highway),484,South Oxfordshire,accidents
+743,Local_Authority_(Highway),485,West Oxfordshire,accidents
+744,Local_Authority_(Highway),490,Basingstoke and Deane,accidents
+745,Local_Authority_(Highway),491,Eastleigh,accidents
+746,Local_Authority_(Highway),492,Fareham,accidents
+747,Local_Authority_(Highway),493,Gosport,accidents
+748,Local_Authority_(Highway),494,Hart,accidents
+749,Local_Authority_(Highway),495,Havant,accidents
+750,Local_Authority_(Highway),496,New Forest,accidents
+751,Local_Authority_(Highway),497,East Hampshire,accidents
+752,Local_Authority_(Highway),498,Portsmouth,accidents
+753,Local_Authority_(Highway),499,Rushmoor,accidents
+754,Local_Authority_(Highway),500,Southampton ,accidents
+755,Local_Authority_(Highway),501,Test Valley,accidents
+756,Local_Authority_(Highway),502,Winchester,accidents
+757,Local_Authority_(Highway),505,Isle of Wight,accidents
+758,Local_Authority_(Highway),510,Elmbridge,accidents
+759,Local_Authority_(Highway),511,Guildford,accidents
+760,Local_Authority_(Highway),512,Mole Valley,accidents
+761,Local_Authority_(Highway),513,Reigate and Banstead,accidents
+762,Local_Authority_(Highway),514,Runnymede,accidents
+763,Local_Authority_(Highway),515,Surrey Heath,accidents
+764,Local_Authority_(Highway),516,Tandridge,accidents
+765,Local_Authority_(Highway),517,Waverley,accidents
+766,Local_Authority_(Highway),518,Woking,accidents
+767,Local_Authority_(Highway),530,Ashford,accidents
+768,Local_Authority_(Highway),531,Canterbury,accidents
+769,Local_Authority_(Highway),532,Dartford,accidents
+770,Local_Authority_(Highway),533,Dover,accidents
+771,Local_Authority_(Highway),535,Gravesham,accidents
+772,Local_Authority_(Highway),536,Maidstone,accidents
+773,Local_Authority_(Highway),538,Sevenoaks,accidents
+774,Local_Authority_(Highway),539,Shepway,accidents
+775,Local_Authority_(Highway),540,Swale,accidents
+776,Local_Authority_(Highway),541,Thanet,accidents
+777,Local_Authority_(Highway),542,Tonbridge and Malling,accidents
+778,Local_Authority_(Highway),543,Tunbridge Wells,accidents
+779,Local_Authority_(Highway),544,Medway,accidents
+780,Local_Authority_(Highway),551,Eastbourne,accidents
+781,Local_Authority_(Highway),552,Hastings,accidents
+782,Local_Authority_(Highway),554,Lewes,accidents
+783,Local_Authority_(Highway),555,Rother,accidents
+784,Local_Authority_(Highway),556,Wealden,accidents
+785,Local_Authority_(Highway),557,Adur,accidents
+786,Local_Authority_(Highway),558,Arun,accidents
+787,Local_Authority_(Highway),559,Chichester,accidents
+788,Local_Authority_(Highway),560,Crawley,accidents
+789,Local_Authority_(Highway),562,Horsham,accidents
+790,Local_Authority_(Highway),563,Mid Sussex,accidents
+791,Local_Authority_(Highway),564,Worthing,accidents
+792,Local_Authority_(Highway),565,Brighton and Hove,accidents
+793,Local_Authority_(Highway),570,City of London,accidents
+794,Local_Authority_(Highway),580,East Devon,accidents
+795,Local_Authority_(Highway),581,Exeter,accidents
+796,Local_Authority_(Highway),582,North Devon,accidents
+797,Local_Authority_(Highway),583,Plymouth,accidents
+798,Local_Authority_(Highway),584,South Hams,accidents
+799,Local_Authority_(Highway),585,Teignbridge,accidents
+800,Local_Authority_(Highway),586,Mid Devon,accidents
+801,Local_Authority_(Highway),587,Torbay,accidents
+802,Local_Authority_(Highway),588,Torridge,accidents
+803,Local_Authority_(Highway),589,West Devon,accidents
+804,Local_Authority_(Highway),590,Caradon,accidents
+805,Local_Authority_(Highway),591,Carrick,accidents
+806,Local_Authority_(Highway),592,Kerrier,accidents
+807,Local_Authority_(Highway),593,North Cornwall,accidents
+808,Local_Authority_(Highway),594,Penwith,accidents
+809,Local_Authority_(Highway),595,Restormel,accidents
+810,Local_Authority_(Highway),596,Cornwall,accidents
+811,Local_Authority_(Highway),601,"Bristol, City of",accidents
+812,Local_Authority_(Highway),605,North Somerset,accidents
+813,Local_Authority_(Highway),606,Mendip,accidents
+814,Local_Authority_(Highway),607,Sedgemoor,accidents
+815,Local_Authority_(Highway),608,Taunton Deane,accidents
+816,Local_Authority_(Highway),609,West Somerset,accidents
+817,Local_Authority_(Highway),610,South Somerset,accidents
+818,Local_Authority_(Highway),611,Bath and North East Somerset,accidents
+819,Local_Authority_(Highway),612,South Gloucestershire,accidents
+820,Local_Authority_(Highway),620,Cheltenham,accidents
+821,Local_Authority_(Highway),621,Cotswold,accidents
+822,Local_Authority_(Highway),622,Forest of Dean,accidents
+823,Local_Authority_(Highway),623,Gloucester,accidents
+824,Local_Authority_(Highway),624,Stroud,accidents
+825,Local_Authority_(Highway),625,Tewkesbury,accidents
+826,Local_Authority_(Highway),630,Kennet,accidents
+827,Local_Authority_(Highway),631,North Wiltshire,accidents
+828,Local_Authority_(Highway),632,Salisbury,accidents
+829,Local_Authority_(Highway),633,Swindon,accidents
+830,Local_Authority_(Highway),634,West Wiltshire,accidents
+831,Local_Authority_(Highway),635,Wiltshire,accidents
+832,Local_Authority_(Highway),640,Bournemouth,accidents
+833,Local_Authority_(Highway),641,Christchurch,accidents
+834,Local_Authority_(Highway),642,North Dorset,accidents
+835,Local_Authority_(Highway),643,Poole,accidents
+836,Local_Authority_(Highway),644,Purbeck,accidents
+837,Local_Authority_(Highway),645,West Dorset,accidents
+838,Local_Authority_(Highway),646,Weymouth and Portland,accidents
+839,Local_Authority_(Highway),647,East Dorset,accidents
+840,Local_Authority_(Highway),720,Isle of Anglesey,accidents
+841,Local_Authority_(Highway),721,Conwy,accidents
+842,Local_Authority_(Highway),722,Gwynedd,accidents
+843,Local_Authority_(Highway),723,Denbighshire,accidents
+844,Local_Authority_(Highway),724,Flintshire,accidents
+845,Local_Authority_(Highway),725,Wrexham,accidents
+846,Local_Authority_(Highway),730,Blaenau Gwent,accidents
+847,Local_Authority_(Highway),731,Caerphilly,accidents
+848,Local_Authority_(Highway),732,Monmouthshire,accidents
+849,Local_Authority_(Highway),733,Newport,accidents
+850,Local_Authority_(Highway),734,Torfaen,accidents
+851,Local_Authority_(Highway),740,Bridgend,accidents
+852,Local_Authority_(Highway),741,Cardiff,accidents
+853,Local_Authority_(Highway),742,Merthyr Tydfil,accidents
+854,Local_Authority_(Highway),743,Neath Port Talbot,accidents
+855,Local_Authority_(Highway),744,"Rhondda, Cynon, Taff",accidents
+856,Local_Authority_(Highway),745,Swansea,accidents
+857,Local_Authority_(Highway),746,The Vale of Glamorgan,accidents
+858,Local_Authority_(Highway),750,Ceredigion,accidents
+859,Local_Authority_(Highway),751,Carmarthenshire,accidents
+860,Local_Authority_(Highway),752,Pembrokeshire,accidents
+861,Local_Authority_(Highway),753,Powys,accidents
+862,Local_Authority_(Highway),910,Aberdeen City,accidents
+863,Local_Authority_(Highway),911,Aberdeenshire,accidents
+864,Local_Authority_(Highway),912,Angus,accidents
+865,Local_Authority_(Highway),913,Argyll and Bute,accidents
+866,Local_Authority_(Highway),914,Scottish Borders,accidents
+867,Local_Authority_(Highway),915,Clackmannanshire,accidents
+868,Local_Authority_(Highway),916,West Dunbartonshire,accidents
+869,Local_Authority_(Highway),917,Dumfries and Galloway,accidents
+870,Local_Authority_(Highway),918,Dundee City,accidents
+871,Local_Authority_(Highway),919,East Ayrshire,accidents
+872,Local_Authority_(Highway),920,East Dunbartonshire,accidents
+873,Local_Authority_(Highway),921,East Lothian,accidents
+874,Local_Authority_(Highway),922,East Renfrewshire,accidents
+875,Local_Authority_(Highway),923,"Edinburgh, City of",accidents
+876,Local_Authority_(Highway),924,Falkirk,accidents
+877,Local_Authority_(Highway),925,Fife,accidents
+878,Local_Authority_(Highway),926,Glasgow City,accidents
+879,Local_Authority_(Highway),927,Highland,accidents
+880,Local_Authority_(Highway),928,Inverclyde,accidents
+881,Local_Authority_(Highway),929,Midlothian,accidents
+882,Local_Authority_(Highway),930,Moray,accidents
+883,Local_Authority_(Highway),931,North Ayrshire,accidents
+884,Local_Authority_(Highway),932,North Lanarkshire,accidents
+885,Local_Authority_(Highway),933,Orkney Islands,accidents
+886,Local_Authority_(Highway),934,Perth and Kinross,accidents
+887,Local_Authority_(Highway),935,Renfrewshire,accidents
+888,Local_Authority_(Highway),936,Shetland Islands,accidents
+889,Local_Authority_(Highway),937,South Ayrshire,accidents
+890,Local_Authority_(Highway),938,South Lanarkshire,accidents
+891,Local_Authority_(Highway),939,Stirling,accidents
+892,Local_Authority_(Highway),940,West Lothian,accidents
+893,Local_Authority_(Highway),941,Western Isles,accidents
+894,1st_Road_Class,1,Motorway,accidents
+895,1st_Road_Class,2,A(M),accidents
+896,1st_Road_Class,3,A,accidents
+897,1st_Road_Class,4,B,accidents
+898,1st_Road_Class,5,C,accidents
+899,1st_Road_Class,6,Unclassified,accidents
+900,Road_Type,1,Roundabout,accidents
+901,Road_Type,2,One way street,accidents
+902,Road_Type,3,Dual carriageway,accidents
+903,Road_Type,6,Single carriageway,accidents
+904,Road_Type,7,Slip road,accidents
+905,Road_Type,9,Unknown,accidents
+906,Road_Type,12,One way street/Slip road,accidents
+907,Road_Type,-1,Data missing or out of range,accidents
+908,Junction_Detail,0,Not at junction or within 20 metres,accidents
+909,Junction_Detail,1,Roundabout,accidents
+910,Junction_Detail,2,Mini-roundabout,accidents
+911,Junction_Detail,3,T or staggered junction,accidents
+912,Junction_Detail,5,Slip road,accidents
+913,Junction_Detail,6,Crossroads,accidents
+914,Junction_Detail,7,More than 4 arms (not roundabout),accidents
+915,Junction_Detail,8,Private drive or entrance,accidents
+916,Junction_Detail,9,Other junction,accidents
+917,Junction_Detail,-1,Data missing or out of range,accidents
+918,Junction_Control,0,Not at junction or within 20 metres,accidents
+919,Junction_Control,1,Authorised person,accidents
+920,Junction_Control,2,Auto traffic signal,accidents
+921,Junction_Control,3,Stop sign,accidents
+922,Junction_Control,4,Give way or uncontrolled,accidents
+923,Junction_Control,-1,Data missing or out of range,accidents
+924,2nd_Road_Class,0,Not at junction or within 20 metres,accidents
+925,2nd_Road_Class,1,Motorway,accidents
+926,2nd_Road_Class,2,A(M),accidents
+927,2nd_Road_Class,3,A,accidents
+928,2nd_Road_Class,4,B,accidents
+929,2nd_Road_Class,5,C,accidents
+930,2nd_Road_Class,6,Unclassified,accidents
+931,Pedestrian_Crossing-Human_Control,0,None within 50 metres ,accidents
+932,Pedestrian_Crossing-Human_Control,1,Control by school crossing patrol,accidents
+933,Pedestrian_Crossing-Human_Control,2,Control by other authorised person,accidents
+934,Pedestrian_Crossing-Human_Control,-1,Data missing or out of range,accidents
+935,Pedestrian_Crossing-Physical_Facilities,0,No physical crossing facilities within 50 metres,accidents
+936,Pedestrian_Crossing-Physical_Facilities,1,Zebra,accidents
+937,Pedestrian_Crossing-Physical_Facilities,4,"Pelican, puffin, toucan or similar non-junction pedestrian light crossing",accidents
+938,Pedestrian_Crossing-Physical_Facilities,5,Pedestrian phase at traffic signal junction,accidents
+939,Pedestrian_Crossing-Physical_Facilities,7,Footbridge or subway,accidents
+940,Pedestrian_Crossing-Physical_Facilities,8,Central refuge,accidents
+941,Pedestrian_Crossing-Physical_Facilities,-1,Data missing or out of range,accidents
+942,Light_Conditions,1,Daylight,accidents
+943,Light_Conditions,4,Darkness - lights lit,accidents
+944,Light_Conditions,5,Darkness - lights unlit,accidents
+945,Light_Conditions,6,Darkness - no lighting,accidents
+946,Light_Conditions,7,Darkness - lighting unknown,accidents
+947,Light_Conditions,-1,Data missing or out of range,accidents
+948,Weather_Conditions,1,Fine no high winds,accidents
+949,Weather_Conditions,2,Raining no high winds,accidents
+950,Weather_Conditions,3,Snowing no high winds,accidents
+951,Weather_Conditions,4,Fine + high winds,accidents
+952,Weather_Conditions,5,Raining + high winds,accidents
+953,Weather_Conditions,6,Snowing + high winds,accidents
+954,Weather_Conditions,7,Fog or mist,accidents
+955,Weather_Conditions,8,Other,accidents
+956,Weather_Conditions,9,Unknown,accidents
+957,Weather_Conditions,-1,Data missing or out of range,accidents
+958,Road_Surface_Conditions,1,Dry,accidents
+959,Road_Surface_Conditions,2,Wet or damp,accidents
+960,Road_Surface_Conditions,3,Snow,accidents
+961,Road_Surface_Conditions,4,Frost or ice,accidents
+962,Road_Surface_Conditions,5,Flood over 3cm. deep,accidents
+963,Road_Surface_Conditions,6,Oil or diesel,accidents
+964,Road_Surface_Conditions,7,Mud,accidents
+965,Road_Surface_Conditions,-1,Data missing or out of range,accidents
+966,Special_Conditions_at_Site,0,None,accidents
+967,Special_Conditions_at_Site,1,Auto traffic signal - out,accidents
+968,Special_Conditions_at_Site,2,Auto signal part defective,accidents
+969,Special_Conditions_at_Site,3,Road sign or marking defective or obscured,accidents
+970,Special_Conditions_at_Site,4,Roadworks,accidents
+971,Special_Conditions_at_Site,5,Road surface defective,accidents
+972,Special_Conditions_at_Site,6,Oil or diesel,accidents
+973,Special_Conditions_at_Site,7,Mud,accidents
+974,Special_Conditions_at_Site,-1,Data missing or out of range,accidents
+975,Carriageway_Hazards,0,None,accidents
+976,Carriageway_Hazards,1,Vehicle load on road,accidents
+977,Carriageway_Hazards,2,Other object on road,accidents
+978,Carriageway_Hazards,3,Previous accident,accidents
+979,Carriageway_Hazards,4,Dog on road,accidents
+980,Carriageway_Hazards,5,Other animal on road,accidents
+981,Carriageway_Hazards,6,Pedestrian in carriageway - not injured,accidents
+982,Carriageway_Hazards,7,Any animal in carriageway (except ridden horse),accidents
+983,Carriageway_Hazards,-1,Data missing or out of range,accidents
+984,Urban_or_Rural_Area,1,Urban,accidents
+985,Urban_or_Rural_Area,2,Rural,accidents
+986,Urban_or_Rural_Area,3,Unallocated,accidents
+987,Did_Police_Officer_Attend_Scene_of_Accident,1,Yes,accidents
+988,Did_Police_Officer_Attend_Scene_of_Accident,2,No,accidents
+989,Did_Police_Officer_Attend_Scene_of_Accident,3,No - accident was reported using a self completion  form (self rep only),accidents
+990,Vehicle_Type,1,Pedal cycle,vehicles
+991,Vehicle_Type,2,Motorcycle 50cc and under,vehicles
+992,Vehicle_Type,3,Motorcycle 125cc and under,vehicles
+993,Vehicle_Type,4,Motorcycle over 125cc and up to 500cc,vehicles
+994,Vehicle_Type,5,Motorcycle over 500cc,vehicles
+995,Vehicle_Type,8,Taxi/Private hire car,vehicles
+996,Vehicle_Type,9,Car,vehicles
+997,Vehicle_Type,10,Minibus (8 - 16 passenger seats),vehicles
+998,Vehicle_Type,11,Bus or coach (17 or more pass seats),vehicles
+999,Vehicle_Type,16,Ridden horse,vehicles
+1000,Vehicle_Type,17,Agricultural vehicle,vehicles
+1001,Vehicle_Type,18,Tram,vehicles
+1002,Vehicle_Type,19,Van / Goods 3.5 tonnes mgw or under,vehicles
+1003,Vehicle_Type,20,Goods over 3.5t. and under 7.5t,vehicles
+1004,Vehicle_Type,21,Goods 7.5 tonnes mgw and over,vehicles
+1005,Vehicle_Type,22,Mobility scooter,vehicles
+1006,Vehicle_Type,23,Electric motorcycle,vehicles
+1007,Vehicle_Type,90,Other vehicle,vehicles
+1008,Vehicle_Type,97,Motorcycle - unknown cc,vehicles
+1009,Vehicle_Type,98,Goods vehicle - unknown weight,vehicles
+1010,Vehicle_Type,-1,Data missing or out of range,vehicles
+1011,Towing_and_Articulation,0,No tow/articulation,vehicles
+1012,Towing_and_Articulation,1,Articulated vehicle,vehicles
+1013,Towing_and_Articulation,2,Double or multiple trailer,vehicles
+1014,Towing_and_Articulation,3,Caravan,vehicles
+1015,Towing_and_Articulation,4,Single trailer,vehicles
+1016,Towing_and_Articulation,5,Other tow,vehicles
+1017,Towing_and_Articulation,-1,Data missing or out of range,vehicles
+1018,Vehicle_Manoeuvre,1,Reversing,vehicles
+1019,Vehicle_Manoeuvre,2,Parked,vehicles
+1020,Vehicle_Manoeuvre,3,Waiting to go - held up,vehicles
+1021,Vehicle_Manoeuvre,4,Slowing or stopping,vehicles
+1022,Vehicle_Manoeuvre,5,Moving off,vehicles
+1023,Vehicle_Manoeuvre,6,U-turn,vehicles
+1024,Vehicle_Manoeuvre,7,Turning left,vehicles
+1025,Vehicle_Manoeuvre,8,Waiting to turn left,vehicles
+1026,Vehicle_Manoeuvre,9,Turning right,vehicles
+1027,Vehicle_Manoeuvre,10,Waiting to turn right,vehicles
+1028,Vehicle_Manoeuvre,11,Changing lane to left,vehicles
+1029,Vehicle_Manoeuvre,12,Changing lane to right,vehicles
+1030,Vehicle_Manoeuvre,13,Overtaking moving vehicle - offside,vehicles
+1031,Vehicle_Manoeuvre,14,Overtaking static vehicle - offside,vehicles
+1032,Vehicle_Manoeuvre,15,Overtaking - nearside,vehicles
+1033,Vehicle_Manoeuvre,16,Going ahead left-hand bend,vehicles
+1034,Vehicle_Manoeuvre,17,Going ahead right-hand bend,vehicles
+1035,Vehicle_Manoeuvre,18,Going ahead other,vehicles
+1036,Vehicle_Manoeuvre,-1,Data missing or out of range,vehicles
+1037,Vehicle_Location-Restricted_Lane,0,On main c'way - not in restricted lane,vehicles
+1038,Vehicle_Location-Restricted_Lane,1,Tram/Light rail track,vehicles
+1039,Vehicle_Location-Restricted_Lane,2,Bus lane,vehicles
+1040,Vehicle_Location-Restricted_Lane,3,Busway (including guided busway),vehicles
+1041,Vehicle_Location-Restricted_Lane,4,Cycle lane (on main carriageway),vehicles
+1042,Vehicle_Location-Restricted_Lane,5,Cycleway or shared use footway (not part of  main carriageway),vehicles
+1043,Vehicle_Location-Restricted_Lane,6,On lay-by or hard shoulder,vehicles
+1044,Vehicle_Location-Restricted_Lane,7,Entering lay-by or hard shoulder,vehicles
+1045,Vehicle_Location-Restricted_Lane,8,Leaving lay-by or hard shoulder,vehicles
+1046,Vehicle_Location-Restricted_Lane,9,Footway (pavement),vehicles
+1047,Vehicle_Location-Restricted_Lane,10,Not on carriageway,vehicles
+1048,Vehicle_Location-Restricted_Lane,-1,Data missing or out of range,vehicles
+1049,Junction_Location,0,Not at or within 20 metres of junction,vehicles
+1050,Junction_Location,1,Approaching junction or waiting/parked at junction approach,vehicles
+1051,Junction_Location,2,Cleared junction or waiting/parked at junction exit,vehicles
+1052,Junction_Location,3,Leaving roundabout,vehicles
+1053,Junction_Location,4,Entering roundabout,vehicles
+1054,Junction_Location,5,Leaving main road,vehicles
+1055,Junction_Location,6,Entering main road,vehicles
+1056,Junction_Location,7,Entering from slip road,vehicles
+1057,Junction_Location,8,Mid Junction - on roundabout or on main road,vehicles
+1058,Junction_Location,-1,Data missing or out of range,vehicles
+1059,Skidding_and_Overturning,0,None,vehicles
+1060,Skidding_and_Overturning,1,Skidded,vehicles
+1061,Skidding_and_Overturning,2,Skidded and overturned,vehicles
+1062,Skidding_and_Overturning,3,Jackknifed,vehicles
+1063,Skidding_and_Overturning,4,Jackknifed and overturned,vehicles
+1064,Skidding_and_Overturning,5,Overturned,vehicles
+1065,Skidding_and_Overturning,-1,Data missing or out of range,vehicles
+1066,Hit_Object_in_Carriageway,0,None,vehicles
+1067,Hit_Object_in_Carriageway,1,Previous accident,vehicles
+1068,Hit_Object_in_Carriageway,2,Road works,vehicles
+1069,Hit_Object_in_Carriageway,4,Parked vehicle,vehicles
+1070,Hit_Object_in_Carriageway,5,Bridge (roof),vehicles
+1071,Hit_Object_in_Carriageway,6,Bridge (side),vehicles
+1072,Hit_Object_in_Carriageway,7,Bollard or refuge,vehicles
+1073,Hit_Object_in_Carriageway,8,Open door of vehicle,vehicles
+1074,Hit_Object_in_Carriageway,9,Central island of roundabout,vehicles
+1075,Hit_Object_in_Carriageway,10,Kerb,vehicles
+1076,Hit_Object_in_Carriageway,11,Other object,vehicles
+1077,Hit_Object_in_Carriageway,12,Any animal (except ridden horse),vehicles
+1078,Hit_Object_in_Carriageway,-1,Data missing or out of range,vehicles
+1079,Vehicle_Leaving_Carriageway,0,Did not leave carriageway,vehicles
+1080,Vehicle_Leaving_Carriageway,1,Nearside,vehicles
+1081,Vehicle_Leaving_Carriageway,2,Nearside and rebounded,vehicles
+1082,Vehicle_Leaving_Carriageway,3,Straight ahead at junction,vehicles
+1083,Vehicle_Leaving_Carriageway,4,Offside on to central reservation,vehicles
+1084,Vehicle_Leaving_Carriageway,5,Offside on to centrl res + rebounded,vehicles
+1085,Vehicle_Leaving_Carriageway,6,Offside - crossed central reservation,vehicles
+1086,Vehicle_Leaving_Carriageway,7,Offside,vehicles
+1087,Vehicle_Leaving_Carriageway,8,Offside and rebounded,vehicles
+1088,Vehicle_Leaving_Carriageway,-1,Data missing or out of range,vehicles
+1089,Hit_Object_off_Carriageway,0,None,vehicles
+1090,Hit_Object_off_Carriageway,1,Road sign or traffic signal,vehicles
+1091,Hit_Object_off_Carriageway,2,Lamp post,vehicles
+1092,Hit_Object_off_Carriageway,3,Telegraph or electricity pole,vehicles
+1093,Hit_Object_off_Carriageway,4,Tree,vehicles
+1094,Hit_Object_off_Carriageway,5,Bus stop or bus shelter,vehicles
+1095,Hit_Object_off_Carriageway,6,Central crash barrier,vehicles
+1096,Hit_Object_off_Carriageway,7,Near/Offside crash barrier,vehicles
+1097,Hit_Object_off_Carriageway,8,Submerged in water,vehicles
+1098,Hit_Object_off_Carriageway,9,Entered ditch,vehicles
+1099,Hit_Object_off_Carriageway,10,Other permanent object,vehicles
+1100,Hit_Object_off_Carriageway,11,Wall or fence,vehicles
+1101,Hit_Object_off_Carriageway,-1,Data missing or out of range,vehicles
+1102,1st_Point_of_Impact,0,Did not impact,vehicles
+1103,1st_Point_of_Impact,1,Front,vehicles
+1104,1st_Point_of_Impact,2,Back,vehicles
+1105,1st_Point_of_Impact,3,Offside,vehicles
+1106,1st_Point_of_Impact,4,Nearside,vehicles
+1107,1st_Point_of_Impact,-1,Data missing or out of range,vehicles
+1108,Was_Vehicle_Left_Hand_Drive?,1,No,vehicles
+1109,Was_Vehicle_Left_Hand_Drive?,2,Yes,vehicles
+1110,Was_Vehicle_Left_Hand_Drive?,-1,Data missing or out of range,vehicles
+1111,Journey_Purpose_of_Driver,1,Journey as part of work,vehicles
+1112,Journey_Purpose_of_Driver,2,Commuting to/from work,vehicles
+1113,Journey_Purpose_of_Driver,3,Taking pupil to/from school,vehicles
+1114,Journey_Purpose_of_Driver,4,Pupil riding to/from school,vehicles
+1115,Journey_Purpose_of_Driver,5,Other,vehicles
+1116,Journey_Purpose_of_Driver,6,Not known,vehicles
+1117,Journey_Purpose_of_Driver,15,Other/Not known (2005-10),vehicles
+1118,Journey_Purpose_of_Driver,-1,Data missing or out of range,vehicles
+1119,Sex_of_Driver,1,Male,vehicles
+1120,Sex_of_Driver,2,Female,vehicles
+1121,Sex_of_Driver,3,Not known,vehicles
+1122,Sex_of_Driver,-1,Data missing or out of range,vehicles
+1123,Age_Band_of_Driver,1,0 - 5,vehicles
+1124,Age_Band_of_Driver,2,06-Oct,vehicles
+1125,Age_Band_of_Driver,3,Nov-15,vehicles
+1126,Age_Band_of_Driver,4,16 - 20,vehicles
+1127,Age_Band_of_Driver,5,21 - 25,vehicles
+1128,Age_Band_of_Driver,6,26 - 35,vehicles
+1129,Age_Band_of_Driver,7,36 - 45,vehicles
+1130,Age_Band_of_Driver,8,46 - 55,vehicles
+1131,Age_Band_of_Driver,9,56 - 65,vehicles
+1132,Age_Band_of_Driver,10,66 - 75,vehicles
+1133,Age_Band_of_Driver,11,Over 75,vehicles
+1134,Propulsion_Code,1,Petrol,vehicles
+1135,Propulsion_Code,2,Heavy oil,vehicles
+1136,Propulsion_Code,3,Electric,vehicles
+1137,Propulsion_Code,4,Steam,vehicles
+1138,Propulsion_Code,5,Gas,vehicles
+1139,Propulsion_Code,6,Petrol/Gas (LPG),vehicles
+1140,Propulsion_Code,7,Gas/Bi-fuel,vehicles
+1141,Propulsion_Code,8,Hybrid electric,vehicles
+1142,Propulsion_Code,9,Fuel cells,vehicles
+1143,Propulsion_Code,10,New fuel technology,vehicles
+1144,Driver_IMD_Decile,1,Most deprived 10%,vehicles
+1145,Driver_IMD_Decile,2,More deprived 10-20%,vehicles
+1146,Driver_IMD_Decile,3,More deprived 20-30%,vehicles
+1147,Driver_IMD_Decile,4,More deprived 30-40%,vehicles
+1148,Driver_IMD_Decile,5,More deprived 40-50%,vehicles
+1149,Driver_IMD_Decile,6,Less deprived 40-50%,vehicles
+1150,Driver_IMD_Decile,7,Less deprived 30-40%,vehicles
+1151,Driver_IMD_Decile,8,Less deprived 20-30%,vehicles
+1152,Driver_IMD_Decile,9,Less deprived 10-20%,vehicles
+1153,Driver_IMD_Decile,10,Least deprived 10%,vehicles
+1154,Driver_IMD_Decile,-1,Data missing or out of range,vehicles
+1155,Driver_Home_Area_Type,1,Urban area,vehicles
+1156,Driver_Home_Area_Type,2,Small town,vehicles
+1157,Driver_Home_Area_Type,3,Rural,vehicles
+1158,Driver_Home_Area_Type,-1,Data missing or out of range,vehicles
+1159,Casualty_Class,1,Driver or rider,casualties
+1160,Casualty_Class,2,Passenger,casualties
+1161,Casualty_Class,3,Pedestrian,casualties
+1162,Sex_of_Casualty,1,Male,casualties
+1163,Sex_of_Casualty,2,Female,casualties
+1164,Sex_of_Casualty,-1,Data missing or out of range,casualties
+1165,Age_Band_of_Casualty,1,0 - 5,casualties
+1166,Age_Band_of_Casualty,2,06-Oct,casualties
+1167,Age_Band_of_Casualty,3,Nov-15,casualties
+1168,Age_Band_of_Casualty,4,16 - 20,casualties
+1169,Age_Band_of_Casualty,5,21 - 25,casualties
+1170,Age_Band_of_Casualty,6,26 - 35,casualties
+1171,Age_Band_of_Casualty,7,36 - 45,casualties
+1172,Age_Band_of_Casualty,8,46 - 55,casualties
+1173,Age_Band_of_Casualty,9,56 - 65,casualties
+1174,Age_Band_of_Casualty,10,66 - 75,casualties
+1175,Age_Band_of_Casualty,11,Over 75,casualties
+1176,Casualty_Severity,1,Fatal,casualties
+1177,Casualty_Severity,2,Serious,casualties
+1178,Casualty_Severity,3,Slight,casualties
+1179,Pedestrian_Location,0,Not a Pedestrian,casualties
+1180,Pedestrian_Location,1,Crossing on pedestrian crossing facility,casualties
+1181,Pedestrian_Location,2,Crossing in zig-zag approach lines,casualties
+1182,Pedestrian_Location,3,Crossing in zig-zag exit lines,casualties
+1183,Pedestrian_Location,4,Crossing elsewhere within 50m. of pedestrian crossing,casualties
+1184,Pedestrian_Location,5,"In carriageway, crossing elsewhere",casualties
+1185,Pedestrian_Location,6,On footway or verge,casualties
+1186,Pedestrian_Location,7,"On refuge, central island or central reservation",casualties
+1187,Pedestrian_Location,8,"In centre of carriageway - not on refuge, island or central reservation",casualties
+1188,Pedestrian_Location,9,"In carriageway, not crossing",casualties
+1189,Pedestrian_Location,10,Unknown or other,casualties
+1190,Pedestrian_Location,-1,Data missing or out of range,casualties
+1191,Pedestrian_Movement,0,Not a Pedestrian,casualties
+1192,Pedestrian_Movement,1,Crossing from driver's nearside,casualties
+1193,Pedestrian_Movement,2,Crossing from nearside - masked by parked or stationary vehicle,casualties
+1194,Pedestrian_Movement,3,Crossing from driver's offside,casualties
+1195,Pedestrian_Movement,4,Crossing from offside - masked by  parked or stationary vehicle,casualties
+1196,Pedestrian_Movement,5,"In carriageway, stationary - not crossing  (standing or playing)",casualties
+1197,Pedestrian_Movement,6,"In carriageway, stationary - not crossing  (standing or playing) - masked by parked or stationary vehicle",casualties
+1198,Pedestrian_Movement,7,"Walking along in carriageway, facing traffic",casualties
+1199,Pedestrian_Movement,8,"Walking along in carriageway, back to traffic",casualties
+1200,Pedestrian_Movement,9,Unknown or other,casualties
+1201,Pedestrian_Movement,-1,Data missing or out of range,casualties
+1202,Car_Passenger,0,Not car passenger,casualties
+1203,Car_Passenger,1,Front seat passenger,casualties
+1204,Car_Passenger,2,Rear seat passenger,casualties
+1205,Car_Passenger,-1,Data missing or out of range,casualties
+1206,Bus_or_Coach_Passenger,0,Not a bus or coach passenger,casualties
+1207,Bus_or_Coach_Passenger,1,Boarding,casualties
+1208,Bus_or_Coach_Passenger,2,Alighting,casualties
+1209,Bus_or_Coach_Passenger,3,Standing passenger,casualties
+1210,Bus_or_Coach_Passenger,4,Seated passenger,casualties
+1211,Bus_or_Coach_Passenger,-1,Data missing or out of range,casualties
+1212,Pedestrian_Road_Maintenance_Worker,0,No / Not applicable,casualties
+1213,Pedestrian_Road_Maintenance_Worker,1,Yes,casualties
+1214,Pedestrian_Road_Maintenance_Worker,2,Not Known,casualties
+1215,Pedestrian_Road_Maintenance_Worker,-1,Data missing or out of range,casualties
+1216,Casualty_Type,0,Pedestrian,casualties
+1217,Casualty_Type,1,Cyclist,casualties
+1218,Casualty_Type,2,Motorcycle 50cc and under rider or passenger,casualties
+1219,Casualty_Type,3,Motorcycle 125cc and under rider or passenger,casualties
+1220,Casualty_Type,4,Motorcycle over 125cc and up to 500cc rider or  passenger,casualties
+1221,Casualty_Type,5,Motorcycle over 500cc rider or passenger,casualties
+1222,Casualty_Type,8,Taxi/Private hire car occupant,casualties
+1223,Casualty_Type,9,Car occupant,casualties
+1224,Casualty_Type,10,Minibus (8 - 16 passenger seats) occupant,casualties
+1225,Casualty_Type,11,Bus or coach occupant (17 or more pass seats),casualties
+1226,Casualty_Type,16,Horse rider,casualties
+1227,Casualty_Type,17,Agricultural vehicle occupant,casualties
+1228,Casualty_Type,18,Tram occupant,casualties
+1229,Casualty_Type,19,Van / Goods vehicle (3.5 tonnes mgw or under) occupant,casualties
+1230,Casualty_Type,20,Goods vehicle (over 3.5t. and under 7.5t.) occupant,casualties
+1231,Casualty_Type,21,Goods vehicle (7.5 tonnes mgw and over) occupant,casualties
+1232,Casualty_Type,22,Mobility scooter rider,casualties
+1233,Casualty_Type,23,Electric motorcycle rider or passenger,casualties
+1234,Casualty_Type,90,Other vehicle occupant,casualties
+1235,Casualty_Type,97,Motorcycle - unknown cc rider or passenger,casualties
+1236,Casualty_Type,98,Goods vehicle (unknown weight) occupant,casualties
+1237,Casualty_Home_Area_Type,1,Urban area,casualties
+1238,Casualty_Home_Area_Type,2,Small town,casualties
+1239,Casualty_Home_Area_Type,3,Rural,casualties
+1240,Casualty_Home_Area_Type,-1,Data missing or out of range,casualties
